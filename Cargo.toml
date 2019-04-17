@@ -1,0 +1,11 @@
+[package]
+name        = "bcm2837"
+version     = "0.1.0"
+description = "A library to interact with the BCM2837 chip"
+authors     = ["RJ Rybarczyk <rj@rybar.tech>"]
+license     = "CC0-1.0"
+homepage    = "https://github.com/rrybarczyk/bcm2837"
+readme      = "README.md"
+edition     = "2018"
+
+[dependencies]
