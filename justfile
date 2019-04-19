@@ -1,3 +1,6 @@
+w-run: 
+    cargo watch --clear --exec run
+
 check: 
     cargo watch --clear --exec check
 
